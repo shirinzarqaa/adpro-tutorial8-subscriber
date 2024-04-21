@@ -9,3 +9,6 @@ b. **what it means? guest:guest@localhost:5672, what is the first `quest`, and w
 - `localhost`: nama host dari server.Dalam hal ini, server berjalan pada mesin yang sama dengan `client`.
 
 - `5672`: nomor port tempat server berjalan. Hal ini, adalah port default untuk AMQP
+
+**screen capture ketika mensimulasikan slow subscriber dengan banyak queue 20**
+![alt text](image.png)
